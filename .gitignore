@@ -1,0 +1,4 @@
+# Remover binários de execução
+*.exe
+*.out
+.vscode/
