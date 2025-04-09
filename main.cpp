@@ -35,5 +35,9 @@ int main() {
     }
 
   // Formata o CPF (xxx.xxx.xxx-xx) e mostra ao usuário
-  cout << "CPF completo: " << d1 << d2 << d3 << "." << d4 << d5 << d6 << "." << d7 << d8 << d9 << "-" << d10 << d11 << endl;
+  cout << "CPF completo: " << d1 << d2 << d3 << "." << d4 << d5 << d6 << "." << d7 << d8 << d9 << "-" << d10 << d11 << endl; // endl = end line, comando de pular linha
+
+  return 0;
+  // INTEGRANTES: Cauê Osei Ballotin da Silva, Clara Haag Rodrigues, Enzo Schiavi Dazzi & João Pedro da Conceição
+
 }
